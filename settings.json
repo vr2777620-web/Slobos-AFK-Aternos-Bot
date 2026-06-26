@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "AFKbot",
-    "password": "",
+    "password": "18754",
     "type": "offline"
   },
   "server": {
-    "ip": "Friends-8oqW.aternos.me",
-    "port": 45667,
+    "ip": "friendd12.aternos.me",
+    "port": ,
     "version": "",
     "try-creative": false
   },
